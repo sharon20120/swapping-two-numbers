@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int x=10,y=5
+X=x+y;
+Y=x-y;
+Cout<<"after swapping:x="<<x<<";y="<<y;
